@@ -1,0 +1,10 @@
+body {
+    background-color: #f8f9fa; /* Light grayish background */
+    font-family: "Helvetica Neue", Arial, sans-serif;
+  }
+  
+  h1,
+  label {
+    color: #333;
+  }
+  
